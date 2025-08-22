@@ -17,14 +17,16 @@ import Cronograma from './sections/Cronograma';
 import Presupuesto from './sections/Presupuesto';
 import Navbar from './Navbar';
 import Autores from './sections/Autores';
+import ReferenciasBibliograficas from './pages/ReferenciasBibliograficas';
+import Conclusiones from './pages/Conclusiones';
 
 function App() {
   return (
     <div className="container">
-  <Navbar />
-  <PresentacionCanva />
-  <h1>Elaboración de Productos Nutracéuticos</h1>
-  <Introduccion />
+      <Navbar />
+      <PresentacionCanva />
+      <h1>Elaboración de Productos Nutracéuticos</h1>
+      <Introduccion />
       <ResumenEjecutivo />
       <ObjetivoGeneral />
       <ObjetivosEspecificos />
@@ -37,8 +39,11 @@ function App() {
       <ProductosEncuesta />
       <MaduracionEncuesta />
       <Cronograma />
-  <Presupuesto />
-  <Autores />
+      <Presupuesto />
+      <Autores />
+  {/* Página de conclusiones antes de referencias bibliográficas */}
+  <Conclusiones />
+  <ReferenciasBibliograficas />
     </div>
   );
 }

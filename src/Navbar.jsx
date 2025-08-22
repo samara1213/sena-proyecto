@@ -19,6 +19,7 @@ const icons = [
 ];
 
 const items = [
+  { href: '#presentacion-canva', text: 'Presentación Canva' },
   { href: '#introduccion', text: 'Introducción' },
   { href: '#resumen', text: 'Resumen Ejecutivo' },
   { href: '#objetivo-general', text: 'Objetivo General' },
@@ -33,6 +34,8 @@ const items = [
   { href: '#maduracion-encuesta', text: 'Maduración Encuesta' },
   { href: '#cronograma', text: 'Cronograma' },
   { href: '#presupuesto', text: 'Presupuesto ' },
+  { href: '#conclusiones-container', text: 'Conclusiones ' },
+  { href: '#referencias-container', text: 'Referencias Bibliográficas ' },
 ];
 
 function Navbar() {
