@@ -1,6 +1,7 @@
 
 import './App.css';
 import PresentacionCanva from './sections/PresentacionCanva';
+import Justificacion from './sections/Justificacion';
 import Introduccion from './sections/Introduccion';
 import ResumenEjecutivo from './sections/ResumenEjecutivo';
 import ObjetivoGeneral from './sections/ObjetivoGeneral';
@@ -24,15 +25,16 @@ function App() {
   return (
     <div className="container">
       <Navbar />
-      <PresentacionCanva />
-      <h1>Elaboración de Productos Nutracéuticos</h1>
-      <Introduccion />
+  <PresentacionCanva />  
+  <h1>Elaboración de Productos Nutracéuticos</h1>
+  <Introduccion />
       <ResumenEjecutivo />
       <ObjetivoGeneral />
       <ObjetivosEspecificos />
       <Metodologia />
       <AlineacionPlanes />
       <PlanteamientoProblema />
+      <Justificacion />
       <ResultadosEsperados />
       <EncuestasCultivadores />
       <FrutasEncuesta />

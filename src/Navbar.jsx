@@ -36,6 +36,7 @@ const items = [
   { href: '#presupuesto', text: 'Presupuesto ' },
   { href: '#conclusiones-container', text: 'Conclusiones ' },
   { href: '#referencias-container', text: 'Referencias Bibliográficas ' },
+  { href: '#justificacion', text: 'Justificación ' },
 ];
 
 function Navbar() {

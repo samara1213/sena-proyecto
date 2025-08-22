@@ -25,7 +25,7 @@ function ReferenciasBibliograficas() {
   <li>La Vanguardia. (2021, agosto 29). Dátil: propiedades, beneficios, valor nutricional e historia. <a href="https://www.lavanguardia.com/comer/materia-prima/20210829/7665473/datil-propiedades-beneficios-valor-nutricional-historia.html" target="_blank" rel="noopener noreferrer">https://www.lavanguardia.com/comer/materia-prima/20210829/7665473/datil-propiedades-beneficios-valor-nutricional-historia.html</a></li>
   <li>Auguste Escoffier School of Culinary Arts. (2022, abril 8). How to make fruit pectin. <a href="https://www.escoffier.edu/blog/recipes/how-to-make-fruit-pectin/" target="_blank" rel="noopener noreferrer">https://www.escoffier.edu/blog/recipes/how-to-make-fruit-pectin/</a></li>
   <li>Aegon. (2023, septiembre 12). Propiedades de la manzana: Beneficios para tu salud y bienestar. <a href="https://blog.aegon.es/alimentacion/propiedades-de-la-manzana-beneficios-para-tu-salud-y-bienestar/" target="_blank" rel="noopener noreferrer">https://blog.aegon.es/alimentacion/propiedades-de-la-manzana-beneficios-para-tu-salud-y-bienestar/</a></li>
-  <li>Ministerio de Agricultura, Pesca y Alimentación de España. (1969). Conservas vegetales.</li>
+  <li>Ministerio de Agricultura, Pesca y Alimentación de España. (1969). Conservas vegetales. <a href="https://www.mapa.gob.es/ministerio/pags/biblioteca/hojas/hd_1969_04.pdf" target="_blank" rel="noopener noreferrer">https://www.mapa.gob.es/es/alimentacion/temas/conservas-vegetales.aspx</a></li>
       </ol>
     </div>
   );
